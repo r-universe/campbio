@@ -13,3 +13,8 @@
 	url = https://github.com/campbio/musicatk
 	shallow = true
 	registered = true
+[submodule "scruff"]
+	path = scruff
+	url = https://github.com/campbio/scruff
+	shallow = true
+	registered = true

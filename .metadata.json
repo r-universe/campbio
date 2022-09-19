@@ -4,5 +4,8 @@
   },
   {
     "package": "musicatk"
+  },
+  {
+    "package": "scruff"
   }
 ]
