@@ -8,3 +8,8 @@
 	url = https://github.com/campbio/celda
 	shallow = true
 	registered = true
+[submodule "musicatk"]
+	path = musicatk
+	url = https://github.com/campbio/musicatk
+	shallow = true
+	registered = true
