@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "celda"]
 	path = celda
 	url = https://github.com/campbio/celda
-	shallow = true
-	registered = true
 [submodule "musicatk"]
 	path = musicatk
 	url = https://github.com/campbio/musicatk
-	shallow = true
-	registered = true
 [submodule "scruff"]
 	path = scruff
 	url = https://github.com/campbio/scruff
-	shallow = true
-	registered = true
